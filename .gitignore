@@ -1,0 +1,10 @@
+#C++ binaries
+*.o
+*.exe
+
+#VS Code
+.vscode
+
+#SFML
+SFML*
+*.dll
