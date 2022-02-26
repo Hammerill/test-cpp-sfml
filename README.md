@@ -4,6 +4,9 @@ My old restored project for testing SFML library
 Compile and launch
 ==============================
 
+Below is instruction to launch with MinGW, so you need to install its tools to compile project
+Also prepare SFML directory for your OS somewhere and type path to it in commands below instead of Path-to-SFML
+
 ```
     g++ -c main.exe -IPath-to-SFML/include
 
