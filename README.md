@@ -5,6 +5,7 @@ Compile and launch
 ==============================
 
 Below is instruction to launch with MinGW, so you need to install its tools to compile project
+
 Also prepare SFML directory for your OS somewhere and type path to it in commands below instead of Path-to-SFML
 
 ```
