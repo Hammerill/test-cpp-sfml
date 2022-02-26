@@ -1,6 +1,8 @@
 # TestSFML
 My old restored project for testing SFML library
 
+WARNING: this project haven't restored fully, so it cannot do what should.
+
 Compile and launch
 ==============================
 
